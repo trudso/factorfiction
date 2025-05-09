@@ -1,0 +1,43 @@
+[gd_scene load_steps=2 format=3 uid="uid://clp17k7sel2gw"]
+
+[ext_resource type="Script" uid="uid://cilmctxyl4wyi" path="res://scenes/test_scene.gd" id="1_g7g4h"]
+
+[node name="TestScene" type="Node2D"]
+script = ExtResource("1_g7g4h")
+
+[node name="PanelContainer" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 1155.0
+offset_bottom = 649.0
+
+[node name="QuoteLabel" type="Label" parent="PanelContainer"]
+layout_mode = 2
+offset_left = 2.0
+offset_top = 117.0
+offset_right = 1157.0
+offset_bottom = 260.0
+
+[node name="AuthorLabel" type="Label" parent="PanelContainer"]
+layout_mode = 0
+offset_left = 2.0
+offset_top = 291.0
+offset_right = 1145.0
+offset_bottom = 346.0
+
+[node name="TrueButton" type="Button" parent="PanelContainer"]
+layout_mode = 0
+offset_left = 649.0
+offset_top = 466.0
+offset_right = 823.0
+offset_bottom = 539.0
+text = "True"
+
+[node name="FalseButton" type="Button" parent="PanelContainer"]
+layout_mode = 0
+offset_left = 320.0
+offset_top = 466.0
+offset_right = 490.0
+offset_bottom = 544.0
+text = "False
+"

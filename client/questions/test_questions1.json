@@ -1,0 +1,26 @@
+[
+	{
+		"quote": "\"To infinity and beyond!\"",
+		"author": "Buzz Lightyear",
+		"url": "https://www.imdb.com/title/tt0112267/",
+		"answer": true
+	},
+	{
+		"quote": "\"The only way to do great work is to love what you do.\"",
+		"author": "Marilyn Monroe",
+		"url": "",
+		"answer": false
+	},
+	{
+		"quote": "The only thing we have to fear is fear itself.",
+		"author": "Franklin D. Roosevelt",
+		"url": "https://www.history.com/topics/great-depression/franklin-roosevelt",
+		"answer": true
+	},
+	{
+		"quote": "The universe is a ball of cheese surrounded by an ocean of chocolate, with endless layers of cream and sprinkles.",
+		"author": "Marilyn Monroe",
+		"url": "",
+		"answer": false
+	}
+]
