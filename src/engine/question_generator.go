@@ -7,6 +7,6 @@ ollama := NewOllama("deepseek-r1:14b")
 		quote: the quote to determine if it is real or fake,
 		author: the author of the quote if the quote is real. If the quote is fake choose a random famouse person for the question instead,
 		o
-		url: the url-source of the quote if the quote is real or null if it's fake,
-		answer: the answer to the question: Is the quote real or fake news?`)
+		url: the url-source of the quote if the quote is real or an empty string if it's fake,
+		answer: the answer to the question if the quote is real: true or false`)
 }
