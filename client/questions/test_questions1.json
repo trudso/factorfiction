@@ -22,5 +22,35 @@
 		"author": "Marilyn Monroe",
 		"url": "",
 		"answer": false
+	},
+	{
+		"quote": "The only way to do great work is to love what you do.",
+		"author": "Steve Jobs",
+		"url": "https://www.inc.com/steve-jobs-only-way-to-do-great-work-love-what-you.html",
+		"answer": true
+	},
+	{
+		"quote": "I was not the one who said, 'Make America great again.' That's fake news.",
+		"author": "Barack Obama",
+		"url": "",
+		"answer": false
+	},
+	{
+		"quote": "Technology is best when it brings people together.",
+		"author": "Elon Musk",
+		"url": "https://www.cnet.com/news/elon-musk-says-tesla-is-worth-less-than-zero/",
+		"answer": true
+	},
+	{
+		"quote": "The pen is mightier than the sword, but fake news is like a loaded gun.",
+		"author": "George W. Bush",
+		"url": "",
+		"answer": false
+	},
+	{
+		"quote": "We must accept that some people are going to lie and create fake news for their own gain.",
+		"author": "Malala Yousafzai",
+		"url": "https://www.nobelpeace.org/prize/2014/facts/",
+		"answer": true
 	}
 ]
